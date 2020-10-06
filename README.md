@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Luby Software](https://github.com/lubysoftware)
+- 💼 I’m currently working at [Luby Software](https://github.com/lubysoftware)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abeldutra)
 <!--- 🌱 I’m currently learning ...
  👯 I’m looking to collaborate on ...
