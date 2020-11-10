@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼- I’m currently working at [Luby Software ![Luby_badge](https://avatars0.githubusercontent.com/u/63678630?s=200&v=4)](https://github.com/lubysoftware)<br/>
+💼- I’m currently working at: [![Luby_badge](https://avatars0.githubusercontent.com/u/63678630?s=15&v=4) Luby Software](https://github.com/lubysoftware)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
