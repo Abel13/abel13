@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💼 I’m currently working at [Luby Software](https://github.com/lubysoftware)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abeldutra) | [Twitch](https://www.twitch.tv/rodiziodecoxinha) | [YouTube](https://www.youtube.com/designcomwpf)
+- 💼  I’m currently working at [Luby Software](https://github.com/lubysoftware)
+- 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Abel%20Dutra-LinkedIn-blue)](https://www.linkedin.com/in/abeldutra) | [Twitch](https://www.twitch.tv/rodiziodecoxinha) | [YouTube](https://www.youtube.com/designcomwpf)
 <!--- 🌱 I’m currently learning ...
  👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ...
