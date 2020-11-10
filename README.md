@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-- 💼  I’m currently working at [Luby Software](https://github.com/lubysoftware)
-- 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)   [![Twitch_Badge](https://img.shields.io/badge/-Twitch-ddd?style=for-the-badge&logo=twitch)](https://www.twitch.tv/rodiziodecoxinha)   [![YouTube_Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/designcomwpf)  [![Discord_Badge](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=discord)](https://discord.com/channels/390244510380195841/390244511101485057)
+💼  I’m currently working at [Luby Software](https://github.com/lubysoftware)<br/>
+<br/>
+📫  <b>How to reach me:</b> <br/>
+[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
+[![Twitch_Badge](https://img.shields.io/badge/-Twitch-ddd?style=for-the-badge&logo=twitch)](https://www.twitch.tv/rodiziodecoxinha)
+[![YouTube_Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/designcomwpf)
+[![Discord_Badge](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=discord)](https://discord.gg/Y5HuYuk)
 <!--- 🌱 I’m currently learning ...
  👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ...
