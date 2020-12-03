@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abel13)]()
+
 💼- I’m currently working at: [![Luby_badge](https://avatars0.githubusercontent.com/u/63678630?s=15&v=4) Luby Software](https://github.com/lubysoftware)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
@@ -13,4 +15,7 @@
  💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abel13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=abel13&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abel13)]()
