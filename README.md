@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<!--- 💼- I’m currently working at: [![Luby_badge](https://avatars0.githubusercontent.com/u/63678630?s=15&v=4) Luby Software](https://github.com/lubysoftware)<br/>-->
+💼- I’m currently working at: [![Accurate_Badge](https://avatars.githubusercontent.com/u/67340356?s=15&v=4) Accurate Software](https://accurate.com.br/)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
