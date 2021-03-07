@@ -6,7 +6,7 @@
 <br/>
 [Accurate Software](https://accurate.com.br/)
 <br/>
-![Linkedin Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg) {:height="200px" width="500px"}
+![Accurate Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg) {:width="100"}
 
 📫- <b>How to reach me:</b> <br/>
 
