@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
-💼- I’m currently working at: <!-- [![Accurate_Badge](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [Accurate Software](https://accurate.com.br/)<br/>
+💼- I’m currently working at: 
+<br/>
+[![Accurate_Badge](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)
+[Accurate Software](https://accurate.com.br/)
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
