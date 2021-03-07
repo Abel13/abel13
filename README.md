@@ -4,9 +4,10 @@
 
 💼- I’m currently working at: 
 <br/>
-![Accurate_Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg?s=35&v=4)
 [Accurate Software](https://accurate.com.br/)
 <br/>
+![Accurate_Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg?s=35&v=4)
+
 📫- <b>How to reach me:</b> <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
