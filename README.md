@@ -4,9 +4,8 @@
 
 💼- I’m currently working at: 
 <br/>
-[Accurate Software](https://accurate.com.br/)
+[![Accurate Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg)](https://accurate.com.br/)
 <br/>
-![Accurate Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg) {:width="100"}
 
 📫- <b>How to reach me:</b> <br/>
 
