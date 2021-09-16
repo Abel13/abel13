@@ -20,11 +20,11 @@
 - ⚡ Fun fact: ...-->
 
 #### STATS
-[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=abel13&show_icons=true&theme=radical)](https://github.com/Abel13)
+[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=abel13&show_icons=true&theme=radical)](https://github.com/Abel13#stats)
 
 #### STREAKS
-[![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel13&theme=blue-green)](https://github.com/Abel13)
+[![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel13&theme=blue-green)](https://github.com/Abel13#streaks)
 
 #### LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel13&layout=compact&theme=tokyonight)](https://github.com/Abel13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel13&layout=compact&theme=tokyonight)](https://github.com/Abel13#languages)
 
