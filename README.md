@@ -4,7 +4,9 @@
 
 💼- I’m currently working as Tech Lead at: 
 <br/>
-<img src="https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png" alt="Act Digital" width="200"/>
+ <a href="http://actdigital.com/">
+  <img src="https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png" alt="Act Digital" width="200"/>
+ <a/>
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
