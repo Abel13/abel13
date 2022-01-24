@@ -4,7 +4,7 @@
 
 💼- I’m currently working at: 
 <br/>
-[![Accurate Badge](https://blog.accurate.com.br/wp-content/uploads/2020/08/logov2.svg)](https://accurate.com.br/)
+[![Act Badge](https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png)](http://actdigital.com/)
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
