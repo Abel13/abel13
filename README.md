@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-💼- I’m currently working at: 
+💼- I’m currently working as Tech Lead at: 
 <br/>
 <img src="https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png" alt="Act Digital" width="200"/>
 <br/>
