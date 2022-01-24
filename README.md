@@ -4,7 +4,7 @@
 
 💼- I’m currently working at: 
 <br/>
-[![Act Badge](https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png)](http://actdigital.com/)
+<img src="https://actdigital.com/en/wp-content/uploads/2020/11/logo-act.png" alt="Act Digital" width="200"/>
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
