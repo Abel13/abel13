@@ -11,6 +11,7 @@
 
 📫- <b>How to reach me:</b> <br/>
 
+[![Email_Badge](https://img.shields.io/badge/-Email-0072c6?style=for-the-badge&logo=microsoft-outlook)](abel.o.d@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
 [![Twitch_Badge](https://img.shields.io/badge/-Twitch-ddd?style=for-the-badge&logo=twitch)](https://www.twitch.tv/abeldutraui)
 [![YouTube_Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/abeldutraui)
