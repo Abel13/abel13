@@ -1,33 +1,26 @@
-<!--- [![profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abel13)]()-->
+# Hi there, I'm Abel Dutra! 👋
 
-### Hi there 👋
+### 💼 Tech Lead at:
 
-💼- I’m currently working as Tech Lead on: 
-<br/>
- <a href="http://actdigital.com/">
-  <img src="https://actdigital.com/_next/static/media/logo.ea307eb6.svg" alt="Act Digital" width="200"/>
- <a/>
-<br/>
+![Act Digital Logo](https://actdigital.com/_next/static/media/logo.ea307eb6.svg)
 
-📫- <b>How to reach me:</b> <br/>
+Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
-[![Email_Badge](https://img.shields.io/badge/-E--Mail-0072c6?style=for-the-badge&logo=microsoft-outlook)](mailto:abel.o.d@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
-[![Twitch_Badge](https://img.shields.io/badge/-Twitch-ddd?style=for-the-badge&logo=twitch)](https://www.twitch.tv/abeldutraui)
-[![YouTube_Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/abeldutraui)
-[![Discord_Badge](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=discord)](https://discord.gg/Y5HuYuk)
-<!--- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
-- ⚡ Fun fact: ...-->
+### 📊 Stats and Streaks
+[![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abel13&theme=radical&show_icons=true)](https://github.com/abel13)
 
-#### STATS
-[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=abel13&show_icons=true&theme=radical)](https://github.com/Abel13#stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abel13&theme=radical)](https://github.com/abel13)
 
-#### STREAKS
-[![Abel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Abel13&theme=blue-green)](https://github.com/Abel13#streaks)
+### 🔧 Technologies and Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abel13&theme=radical&layout=compact)
 
-#### LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel13&layout=compact&theme=tokyonight)](https://github.com/Abel13#languages)
+### 🚀 Let's Connect!
+You can find me on various platforms. Let's connect and collaborate!
 
+[![Email](https://img.shields.io/badge/Email-abd.o.d%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:abd.o.d@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abeldutra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abeldutra)
+[![Twitch](https://img.shields.io/badge/Twitch-abeldutraui-purple?style=flat-square&logo=twitch)](https://www.twitch.tv/abeldutraui)
+[![YouTube](https://img.shields.io/badge/YouTube-abeldutraui-red?style=flat-square&logo=youtube)](https://youtube.com/@abeldutraui)
+[![Discord](https://img.shields.io/badge/Discord-AbelDutra%237890-lightblue?style=flat-square&logo=discord)](https://discord.com/channels/@me/219413487846293504)
+
+Feel free to reach out to me through any of these platforms. Looking forward to connecting with you!
