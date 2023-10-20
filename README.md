@@ -4,6 +4,8 @@
 
 ![Act Digital Logo](https://actdigital.com/_next/static/media/logo.ea307eb6.svg)
 
+### Software Engineer
+
 Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
 ### 📊 Stats and Streaks
