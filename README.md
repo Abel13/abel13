@@ -1,10 +1,8 @@
 # Hi there, I'm Abel Dutra! 👋
 
-### 💼 Tech Lead at:
-
-![Act Digital Logo](https://actdigital.com/_next/static/media/logo.ea307eb6.svg)
-
-### Software Engineer
+| 🎓 Software Engineer: | 💼 Tech Lead: |
+|-|-|
+| <img src='https://seeklogo.com/images/U/utfpr-universidade-tecnologica-federal-do-parana-logo-6CF2B55F31-seeklogo.com.png' width='100'> | <img src='https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/iuabmvuylubvatersqi7' width='100'> |
 
 Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
