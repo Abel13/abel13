@@ -2,6 +2,7 @@ name: Daily Poll
 on:
   schedule:
     - cron: '0 9 * * *'  # Executa diariamente às 9h
+  workflow_dispatch:  # Isso permite rodar o workflow manualmente
 
 jobs:
   call_api:
@@ -13,5 +14,5 @@ jobs:
             --url https://whin2.p.rapidapi.com/createpoll \
             --header 'Content-Type: application/json' \
             --header 'x-rapidapi-host: whin2.p.rapidapi.com' \
-            --header 'x-rapidapi-key: ${{ secrets.RAPID_API_TOKEN }}' \
+            --header 'x-rapidapi-key: c23f220f8amsh133ed4cc07f9599p16daf1jsnbfdc7d62024d' \
             --data '{"name":"$(date +%d/%m)","optionNames":["Sim","Não"],"selectableOptionCount":1}'
