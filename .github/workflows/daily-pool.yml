@@ -1,8 +1,8 @@
 name: Daily Poll
 on:
   schedule:
-    - cron: '0 9 * * *'  # Executa diariamente às 9h
-  workflow_dispatch:  # Isso permite rodar o workflow manualmente
+    - cron: '0 9 * * *'  # Executa diariamente às 9h (UTC)
+  workflow_dispatch:  # Permite rodar o workflow manualmente
 
 jobs:
   call_api:
@@ -10,9 +10,11 @@ jobs:
     steps:
       - name: Send POST request to create poll
         run: |
-          curl --request POST \
+          POLL_DATE=$(date +%d-%m-%Y)  # Aqui formatamos a data
+          response=$(curl --request POST \
             --url https://whin2.p.rapidapi.com/createpoll \
             --header 'Content-Type: application/json' \
             --header 'x-rapidapi-host: whin2.p.rapidapi.com' \
             --header 'x-rapidapi-key: c23f220f8amsh133ed4cc07f9599p16daf1jsnbfdc7d62024d' \
-            --data '{"name":"$(date +%d/%m)","optionNames":["Sim","Não"],"selectableOptionCount":1}'
+            --data "{\"name\":\"$POLL_DATE\",\"optionNames\":[\"Sim\",\"Não\"],\"selectableOptionCount\":1}")
+          echo "API Response: $response"
