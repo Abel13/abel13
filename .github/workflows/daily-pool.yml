@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Send POST request to create poll
         run: |
-          POLL_DATE=$(date +%d-%m-%Y)  # Aqui formatamos a data
+          POLL_DATE=$(date +%d-%m)  # Aqui formatamos a data
           response=$(curl --request POST \
             --url https://whin2.p.rapidapi.com/createpoll \
             --header 'Content-Type: application/json' \
