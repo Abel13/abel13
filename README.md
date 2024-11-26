@@ -2,7 +2,7 @@
 
 | 🎓 Software Engineer: | 💼 Sr. React Native Developer: | 📱 My Apps |
 |-|-|-|
-| <img src='https://seeklogo.com/images/U/utfpr-universidade-tecnologica-federal-do-parana-logo-6CF2B55F31-seeklogo.com.png' width='100'> | <img src='https://play-lh.googleusercontent.com/ov0FQXnvAZvcZF_0gibToeXO4d6EoD_tHAyQPDHpuICAFuhDB2zJ1KSkaxI4XokYNtk=w600-h300-pc0xffffff-pd' width='100'> |  [Sheep Finance](https://sheepfinance.com) <br/>  [Tatuh](https://tatuh.app) <br/> [Portfolio](https://abeldutraui.me)|
+| <img src='https://seeklogo.com/images/U/utfpr-universidade-tecnologica-federal-do-parana-logo-6CF2B55F31-seeklogo.com.png' width='100'> <img src='https://seeklogo.com/images/U/utfpr-universidade-tecnologica-federal-do-parana-logo-6CF2B55F31-seeklogo.com.png' width='100'> | <img src='https://play-lh.googleusercontent.com/ov0FQXnvAZvcZF_0gibToeXO4d6EoD_tHAyQPDHpuICAFuhDB2zJ1KSkaxI4XokYNtk=w600-h300-pc0xffffff-pd' width='100'> |  [Sheep Finance](https://sheepfinance.com) <br/>  [Tatuh](https://tatuh.app) <br/> [Portfolio](https://abeldutraui.me)|
 
 
 Welcome to my GitHub profile! Feel free to explore my projects and contributions.
