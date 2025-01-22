@@ -1,10 +1,8 @@
-Pode incluir no meu fazendo favor?
-
 # Hi there, I'm Abel Dutra! 👋
 
 | 🎓 Software Engineer: | 💼 Sr. React Native Developer: | 📱 My Apps | 🤖 Play Store | 🍎 App Store |
 |-|-|-|-|-|
-| <img src='https://seeklogo.com/images/U/utfpr-universidade-tecnologica-federal-do-parana-logo-6CF2B55F31-seeklogo.com.png' width='100'> <img src='https://static.wixstatic.com/media/cfef1d_c5ca72d67d3f46aa813f50567f474bc7~mv2.png/v1/fill/w_420,h_354,al_c,lg_1,q_85,enc_avif,quality_auto/logo-puc-removebg-preview.png' width='100'> | <img src='https://play-lh.googleusercontent.com/ov0FQXnvAZvcZF_0gibToeXO4d6EoD_tHAyQPDHpuICAFuhDB2zJ1KSkaxI4XokYNtk=w600-h300-pc0xffffff-pd' width='100'> |  [Sheep Finance](https://sheepfinance.com) <br/>  [Tatuh](https://tatuh.app) <br/> [Portfolio](https://abeldutraui.me)| [Sheep Finance](https://play.google.com/store/apps/details?id=com.b13.sheep.finance) <br/> [Tatuh](https://play.google.com/store/apps/details?id=com.b13soft.tatuh) <br/> [Quem sou eu?](https://play.google.com/store/apps/details?id=com.abelb13.whoami) | [Sheep Finance](https://apps.apple.com/us/app/sheep-finance/id1643414738) <br/> [Tatuh](https://apps.apple.com/us/app/tatuh/id6461163037) <br/> [Quem sou eu?](https://apps.apple.com/us/app/quem-sou-eu-quiz/id6740008221) |
+| <img src='./assets/utfpr.logo.png' width='100'> <img src='https://static.wixstatic.com/media/cfef1d_c5ca72d67d3f46aa813f50567f474bc7~mv2.png/v1/fill/w_420,h_354,al_c,lg_1,q_85,enc_avif,quality_auto/logo-puc-removebg-preview.png' width='100'> | <img src='https://play-lh.googleusercontent.com/ov0FQXnvAZvcZF_0gibToeXO4d6EoD_tHAyQPDHpuICAFuhDB2zJ1KSkaxI4XokYNtk=w600-h300-pc0xffffff-pd' width='100'> |  [Sheep Finance](https://sheepfinance.com) <br/>  [Tatuh](https://tatuh.app) <br/> [Portfolio](https://abeldutraui.me)| [Sheep Finance](https://play.google.com/store/apps/details?id=com.b13.sheep.finance) <br/> [Tatuh](https://play.google.com/store/apps/details?id=com.b13soft.tatuh) <br/> [Quem sou eu?](https://play.google.com/store/apps/details?id=com.abelb13.whoami) | [Sheep Finance](https://apps.apple.com/us/app/sheep-finance/id1643414738) <br/> [Tatuh](https://apps.apple.com/us/app/tatuh/id6461163037) <br/> [Quem sou eu?](https://apps.apple.com/us/app/quem-sou-eu-quiz/id6740008221) |
 
 Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
